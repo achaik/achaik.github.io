@@ -30,6 +30,10 @@
 		{
 			"url": "https://weixine.net/ysc.json",
 			"name": "野生(公)"
+		},
+		{
+			"url": "https://framagit.org/00700/tvbox/-/raw/main/FongMi.json",
+			"name": "蜂蜜(公)"
 		}
 	]
 }

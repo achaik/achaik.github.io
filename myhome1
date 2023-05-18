@@ -1,0 +1,12 @@
+{
+  "storeHouse": [{
+    "sourceName": "🆑Calendre(自)",
+    "sourceUrl": "http://calendre.top/TVBox/KY/cangku1.json"
+  }, {
+    "sourceName": "🆎安卓哥(网)",
+    "sourceUrl": "http://calendre.top/TVBox/KY/cangku2.json"
+  }, {
+    "sourceName": "🆎ac(网)",
+    "sourceUrl": "https://achaik.github.io/warehouseareatest.json"
+  }]
+}

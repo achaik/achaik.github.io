@@ -1,1 +1,43 @@
-
+{
+	"urls": [{
+			"url": "http://calendre.top/TVBox/YXHC.json",
+			"name": "☪夕✿晨(自)"
+		},
+		{
+			"url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+			"name": "蜜蜂(主)"
+		},
+		{
+			"url": "http://饭太硬.ga/tv",
+			"name": "饭太硬(主)"
+		},
+		{
+			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+			"name": "肥猫(主)"
+		},
+		{
+			"url": "https://yydsys.top/duo",
+			"name": "多多(主)"
+		},
+		{
+			"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+			"name": "云星(公)"
+		},
+		{
+			"url": "http://52bsj.vip:98/wuai",
+			"name": "吾爱(公)"
+		},
+		{
+			"url": "https://weixine.net/ysc.json",
+			"name": "野生(公)"
+		},
+		{
+			"url": "https://framagit.org/00700/tvbox/-/raw/main/FongMi.json",
+			"name": "蜂蜜(公)"
+		},
+		{
+			"url": "https://yydsys.top/duo/ali",
+			"name": "云盘资源"
+		}
+	]
+}

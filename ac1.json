@@ -4,10 +4,6 @@
 			"name": "☪夕✿晨(自)"
 		},
 		{
-			"url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-			"name": "蜜蜂(主)"
-		},
-		{
 			"url": "http://饭太硬.ga/tv",
 			"name": "饭太硬(主)"
 		},
@@ -36,8 +32,16 @@
 			"name": "蜂蜜(公)"
 		},
 		{
-			"url": "https://yydsys.top/duo/ali",
-			"name": "云盘资源"
+			"url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+			"name": "巧技"
+		},
+		{
+			"url": "https://pastebin.com/raw/5NHaxyGR",
+			"name": "道长"
+		},
+		{
+			"url": "http://home.jundie.top:81/top98.json",
+			"name": "俊于"
 		}
 	]
 }

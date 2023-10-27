@@ -1,14 +1,7 @@
 {
-	"urls": [{
-			"url": "http://calendre.top/TVBox/YXHC.json",
-			"name": "☪夕✿晨(自)"
-		},
+	"urls": [
 		{
-			"url": "http://饭太硬.ga/tv",
-			"name": "饭太硬(主)"
-		},
-		{
-			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+			"url": "http://肥猫.love",
 			"name": "肥猫(主)"
 		},
 		{
@@ -16,7 +9,7 @@
 			"name": "多多(主)"
 		},
 		{
-			"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+			"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
 			"name": "云星(公)"
 		},
 		{
@@ -25,7 +18,7 @@
 		},
 		{
 			"url": "https://weixine.net/ysc.json",
-			"name": "野生(公)"
+			"name": "运输车(公)"
 		},
 		{
 			"url": "https://framagit.org/00700/tvbox/-/raw/main/FongMi.json",
@@ -38,6 +31,18 @@
 		{
 			"url": "https://pastebin.com/raw/5NHaxyGR",
 			"name": "道长"
+		},
+ {
+			"url": "https://pan.shangui.cc/f/XmzNud/yypd.json",
+			"name": "音乐"
+		},
+ {
+			"url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+			"name": "欧哥"
+		},
+ {
+			"url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+			"name": "夜光宝盒"
 		},
 		{
 			"url": "http://home.jundie.top:81/top98.json",

@@ -1,10 +1,7 @@
 {
   "storeHouse": [{
-    "sourceName": "业余",
-    "sourceUrl": "http://m6z.cn/6ocTnP"
-  }, {
-    "sourceName": "🆎安卓哥(网)",
-    "sourceUrl": "http://calendre.top/TVBox/KY/cangku2.json"
+    "sourceName": "🆎阿柴(自）",
+    "sourceUrl": "https://achaik.github.io/yeyu/achai.json"
   }, {
     "sourceName": "🆎ac(网)",
     "sourceUrl": "https://achaik.github.io/warehouseareatest.json"
